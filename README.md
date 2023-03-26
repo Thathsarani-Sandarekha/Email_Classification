@@ -12,14 +12,14 @@ The dataset has been taken from UCI Machine learning repository (https://archive
 
 **KNN model**
 
-Accuracy: 91.45%
-F1 score: 91%
-Precision: 91%
-Recall: 91%
+* Accuracy: 91.45%
+* F1 score: 91%
+* Precision: 91%
+* Recall: 91%
 
 **Decision Tree model**
 
-Accuracy: 88.6%
-F1 score: 89%
-Precision: 89%
-Recall: 89%
+* Accuracy: 88.6%
+* F1 score: 89%
+* Precision: 89%
+* Recall: 89%
